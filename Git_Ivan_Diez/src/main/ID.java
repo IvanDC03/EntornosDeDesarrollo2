@@ -6,8 +6,6 @@ public class ID {
 		System.out.println("Alumno: Ivan Diez");
 		System.out.println("Modificación desde Master - Cambiado");
 		System.out.println("Modificación desde Dev");
-
-
 	}
 
 }
